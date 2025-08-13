@@ -1,0 +1,21 @@
+{
+  "name": "cataldi",
+  "displayName": "cataldi",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cataldi",
+        "uiTheme": "hc-black",
+        "path": "./themes/cataldi-color-theme.json"
+      }
+    ]
+  }
+}
